@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## What I'm Up To *(as of June 2026)*
  
-*  Currently learning ...
-    * Privacy-preserving federated learning protocol design — as part of an apprenticeship
+ Currently learning ...
+ * Privacy-preserving federated learning protocol design — as part of an apprenticeship
 
 
 ## Skills

@@ -21,14 +21,21 @@ Here are some ideas to get you started:
 * B.Sc in Computer Science and Mathematics @ Ashoka University
 * Interested in Data Science and Machine Learning
 
-## Skills
+## What I'm Up To *(as of June 2026)*
+ 
+*  Currently learning ...
+    * Privacy-preserving federated learning protocol design — as part of an apprenticeship
 
-* 💻 **Languages:** Python, C++, MATLAB
-* 🤖 **ML / Data:** PyTorch, Pandas, NumPy, SciPy, OpenCV
-* 🗄️ **Databases:** SQL, MongoDB, Neo4j
-* 🛠️ **Tools:** Git, Power BI, LaTeX, MS Excel
+
+## Skills
+| Category | Tools & Technologies |
+|---|---|
+| Languages | Python, C++, MATLAB |
+| ML / Data | PyTorch, Pandas, NumPy, SciPy, OpenCV |
+| Databases | SQL, MongoDB, Neo4j |
+| Tools | Git, Power BI, LaTeX, MS Excel |
 
 ## Connect with Me
 
-* 💼 [LinkedIn](https://linkedin.com/in/neha-palak)
-* 📧 [nehapalak2684@gmail.com](mailto:nehapalak2684@gmail.com)
+* [LinkedIn](https://linkedin.com/in/neha-palak)
+* [nehapalak2684@gmail.com](mailto:nehapalak2684@gmail.com)

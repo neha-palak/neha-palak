@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Neha ★
-
+Welcome to my GitHub profile, where you'll find projects that cost me a million sleepless nights 😴❌
 ## Educational Profile
 
 * B.Sc in Computer Science and Mathematics @ Ashoka University

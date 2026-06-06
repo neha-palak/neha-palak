@@ -36,6 +36,4 @@ Here are some ideas to get you started:
 | Tools | Git, Power BI, LaTeX, MS Excel |
 
 ## Connect with Me
-
-* [LinkedIn](https://linkedin.com/in/neha-palak)
-* [nehapalak2684@gmail.com](mailto:nehapalak2684@gmail.com)
+[nehapalak2684@gmail.com](mailto:nehapalak2684@gmail.com)

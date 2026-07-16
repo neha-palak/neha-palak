@@ -36,4 +36,4 @@ Welcome to my GitHub profile, where you'll find projects that cost me a million 
 | Tools | Git, Power BI, LaTeX, MS Excel |
 
 ## Connect with Me
-[nehapalak2684@gmail.com](mailto:nehapalak2684@gmail.com)
+[nehapalak.work@gmail.com](mailto:nehapalak.work@gmail.com)

@@ -19,7 +19,7 @@ Welcome to my GitHub profile, where you'll find projects that cost me a million 
 ## Educational Profile
 
 * B.Sc in Computer Science and Mathematics @ Ashoka University
-* Interested in Data Science and Machine Learning
+* Interested in Data Science, Machine Learning, Computer Vision
 
 ## What I'm Up To *(as of August 2026)*
  

@@ -21,10 +21,11 @@ Welcome to my GitHub profile, where you'll find projects that cost me a million 
 * B.Sc in Computer Science and Mathematics @ Ashoka University
 * Interested in Data Science and Machine Learning
 
-## What I'm Up To *(as of June 2026)*
+## What I'm Up To *(as of August 2026)*
  
  Currently learning ...
- * Privacy-preserving federated learning protocol design — as part of an apprenticeship
+ * Privacy-preserving federated learning protocol design — as part of an apprenticeship (now converted into an RA-ship)
+ * Pursuing undergraduate thesis on Gaussian Splatting-based 3D reconstruction of archaeological sites
 
 
 ## Skills
